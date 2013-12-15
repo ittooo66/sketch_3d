@@ -1,8 +1,8 @@
 sketch_3d
 =========
-__マーカブラウザ__  
-__csv__:マーカデータ  
-__pde__:ブラウザ  
+__marker browser__  
+__csv__:marker data  
+__pde__:browser  
 
 
 keyboard
