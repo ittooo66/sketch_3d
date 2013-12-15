@@ -7,9 +7,9 @@ sketch_3d
 
 keyboard
 ========
-space:start/stop  
-r:move to frame0  
-w/s:change framerate  
+*space*start/stop  
+*r*:move to frame0  
+*w/s*:change framerate  
 a/d:frame by frame (need stop)  
 shift:reset framerate  
 cursor:move camera  
