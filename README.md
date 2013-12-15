@@ -1,6 +1,7 @@
 sketch_3d
 =========
-yanoさんの動作と表示機
+マーカブラウザ
+csv群はマーカデータ、pdeはブラウザ
 
 
 keyboard
