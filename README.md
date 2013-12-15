@@ -16,6 +16,6 @@ __cursor__:move camera
 
 mouse
 ========
-__left D/D__:move camera  
+__left Drag__:move camera  
 __right click__:reset camera  
 __wheel__:zoom in/out  
