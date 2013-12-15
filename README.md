@@ -1,21 +1,21 @@
 sketch_3d
 =========
-マーカブラウザ  
-   csv群はマーカデータ  
-  pdeはブラウザ  
+_マーカブラウザ_  
+:csv群はマーカデータ  
+:pdeはブラウザ  
 
 
 keyboard
 ========
-__space__start/stop  
-*r*:move to frame0  
-*w/s*:change framerate  
-a/d:frame by frame (need stop)  
-shift:reset framerate  
-cursor:move camera  
+__space__:start/stop  
+__r__:move to frame0  
+__w/s__:change framerate  
+__a/d__:frame by frame (need stop)  
+__shift__:reset framerate  
+__cursor__:move camera  
 
 mouse
 ========
-left D/D:move camera  
-right click:reset camera  
-wheel:zoom in/out  
+__left D/D__:move camera  
+__right click__:reset camera  
+__wheel__:zoom in/out  
