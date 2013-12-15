@@ -7,7 +7,7 @@ sketch_3d
 
 keyboard
 ========
-*space*start/stop  
+__space__start/stop  
 *r*:move to frame0  
 *w/s*:change framerate  
 a/d:frame by frame (need stop)  
