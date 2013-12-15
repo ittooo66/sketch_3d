@@ -5,7 +5,7 @@ yanoさんの動作と表示機
 
 keyboard
 ========
-space:start/stop
+space:start/stop</br>
 r:move to frame0
 w/s:change framerate
 a/d:frame by frame (need stop)
